@@ -5,11 +5,8 @@
 
 class GameWidget: public QWidget
 {
-private:
-
-
 public:
-
+    GameWidget();
 };
 
 #endif // GAMEWIDGET_H
